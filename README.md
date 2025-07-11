@@ -3,4 +3,5 @@
 处理后的数据集存放于file文件夹中，由于GitHub限制数据集过大无法上传。存储于夸克网盘中。
 我用夸克网盘给你分享了「file」，点击链接或复制整段内容，打开「夸克APP」即可获取。
 /~34f337JfQl~:/
-链接：https://pan.quark.cn/s/3a2015aaa2f4
+链接：https://pan.quark.cn/s/3a2015aaa2f4。
+模型训练模型文件存储分别存储于LSTM_pred{90,365},LSTM_pro_pred{90,365},transformer{90,365}文件夹内，训练过程数据存储于run文件夹下。
