@@ -1,7 +1,3 @@
-# evaluate_plot_lstm_v2.py
-# ============================
-# 带图形绘制的 LSTM 评估脚本
-# ============================
 
 import torch
 import numpy as np
